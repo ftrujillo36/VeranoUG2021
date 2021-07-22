@@ -1,8 +1,0 @@
-Al no realizar a profundidad el seguimiento de ruta en coppelia se utilizo el 
-codigo del señor Isaac Flores, cuyo repositorio es:
-
-vaya a pathfollowe.py y cambie la linea 35 por la ruta que se desee probar
-EJEMPLO: goals = [(3,5),(9,11),(14,15),(17,18)]
-
-Restricciones del programa, no debe haber coordenadas en x iguales, ni debe ir
-en direccion negativa.
