@@ -13,11 +13,18 @@ Obstacles.ttt | The scene used in coppeliasim. The the initial position of the r
 pathcontrol | helper functions used to follow the path
 
 ## Some screenshots
+![simulation](/img/simulation.png)
 
-Paths obtained using followsfla
+### Paths obtained using followsfla
 ![Figure_5](/img/Figure_5.png)
 ![Figure_7](/img/Figure_7.png)
 
-Path obtained by using the robot sensors
+### Path obtained by using the robot sensors
 
 ![Figure_11](/img/Figure_11.png)
+
+## Some useful links
+
+* [A survey on shuffled frog leaping algorithm](https://towardsdatascience.com/a-survey-on-shuffled-frog-leaping-algorithm-d309d0cf7503)
+
+* [CoppeliaSim Remote API for Python](https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm)
